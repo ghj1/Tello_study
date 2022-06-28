@@ -1,1 +1,1 @@
-# test_tello
+# tello_study
